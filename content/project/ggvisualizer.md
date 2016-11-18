@@ -77,6 +77,6 @@ The decorators `@start` and `@end` delineate rmarkdown code chunks that should b
 which will parse the chunks, inject html code including coloration, and strip the extra decorators, and add the necessary pieces to be a flexdashboard, 
 allowing the resulting rmarkdown to be knit.
 
-Feel free to check it out, and leave comments if you'd like to contribute some plot(s) yourselves.
+Feel free to check it out, at [ggvisualizer](ggvisualizer), and leave comments if you'd like to contribute some plot(s) yourselves.
 
 Finally, a special shoutout to Neha Mehta, who has been instrumental in brainstorming ideas and getting the initial plots created.
