@@ -4,6 +4,7 @@ languageCode = "en-us"
 disqusShortname = "devinpastoor"
 copyright = "Copyright (c) 2016, Devin Pastoor; all rights reserved."
 MetaDataFormat = "yaml"
+googleAnalytics = "UA-49237071-1"
 
 [author]
     name = "Devin Pastoor"
